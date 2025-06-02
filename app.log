@@ -1,0 +1,14 @@
+2025-06-01 11:23:34,139 - INFO - Register attempt: username=pravin, email=pravin@
+2025-06-01 11:23:34,569 - INFO - User registered successfully: username=pravin, email=pravin@
+2025-06-01 11:30:22,169 - INFO - Register attempt: username=sai, email=sai@
+2025-06-01 11:30:22,563 - INFO - User registered successfully: username=sai, email=sai@
+2025-06-01 11:30:57,927 - INFO - Login attempt: username=sai
+2025-06-01 11:30:58,272 - INFO - User logged in successfully: username=sai
+2025-06-01 11:37:10,117 - INFO - Register attempt: username=harsh mhase, email=harshmhase@
+2025-06-01 11:37:10,520 - INFO - User registered successfully: username=harsh mhase, email=harshmhase@
+2025-06-01 11:37:34,007 - INFO - Login attempt: username=harshmhase
+2025-06-01 11:37:34,010 - WARNING - Failed login attempt for username: harshmhase
+2025-06-01 11:37:55,985 - INFO - Login attempt: username=harsh mhase
+2025-06-01 11:37:56,334 - INFO - User logged in successfully: username=harsh mhase
+2025-06-02 10:14:43,520 - INFO - User info retrieved for id 1: username=rohan, email=rohan@
+2025-06-02 12:31:49,048 - WARNING - User not found for id: 5
