@@ -1,0 +1,23 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+
+input::placeholder {
+  font-style: italic;
+}
+
+button {
+  font-weight: bold;
+}
+
+.alert {
+  font-size: 18px;
+}

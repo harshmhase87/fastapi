@@ -21,3 +21,7 @@ file_handler.setFormatter(formatter)
 # Logger मध्ये handlers add करा
 logger.addHandler(console_handler)
 logger.addHandler(file_handler)
+
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger("user_system")
